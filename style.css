@@ -31,3 +31,13 @@ button {
     padding: 10px 20px;
     cursor: pointer;
 }
+
+
+/* Custom background style */
+
+body {
+    background-image: url('../harduf 1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
